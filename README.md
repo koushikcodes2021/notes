@@ -1,16 +1,14 @@
 # notes
+A colorful notes app created using Flutter and SQLite
 
-A new Flutter project.
+## APK link
+https://drive.google.com/file/d/1-Vl9ThGmzTi1zGoR1Krc1IZVLsToBj_s/view?usp=sharing
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+      <td><img src= "https://user-images.githubusercontent.com/85097545/130839590-fb40f4bc-1f1a-4456-9276-c7472e1f4adc.jpeg" />
+    </td>
+      <td><img src="https://user-images.githubusercontent.com/85097545/130838851-dc9af599-d251-42d8-bd1f-d23c01d9a552.jpeg" />
+    </td>
+  </tr>
+ </table>
